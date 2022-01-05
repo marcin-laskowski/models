@@ -1,12 +1,12 @@
 # engine
-_cortex
-_seldon
 _new
+_wrappers
 docker-compose.yaml
 
-# Models
-tensorflow/animal_classifier/models
+status.txt
 
+# models
+pytorch/text_comprehender
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
